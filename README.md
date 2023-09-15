@@ -2,7 +2,7 @@
 Currently working on Ship Crew RPG, a team-based sci fi missions game with spaceships:  
   https://github.com/users/andrewens/projects/4
   
-Game dev updates:  
+Discord:  
   https://discord.gg/enmKEVMKva
   
 Portfolio:  
